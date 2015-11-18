@@ -2,16 +2,21 @@
 
 Thomas Köhler testet hier Dinge wie *Kursiv* oder **Fett** Schreiben.
 
-Weiterhin wird eine einfache Liste angelegt mit dingen wie:
+Weiterhin wird eine einfache Liste angelegt mit Dingen wie:
  * Endliche Automaten
  * Processing
  * Hunde
  * Katzen
+ * USV.
  * USW.
 
-Am ende wird noch eine Kleine Tabelle angelegt.
+Am ende wird noch eine kleine Tabelle angelegt.
 
-Gehören zur Informatik    |   Gehören nicht zur Informatik
+
+##Diese Dinge:
+
+gehören zur Informatik    |   gehören nicht zur Informatik
 :-----|:---------------:|---------:
 Endliche Automaten| 50-74 Hunde
 Processing| Katzen
+USV.| USW.
