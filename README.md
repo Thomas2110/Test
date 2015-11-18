@@ -17,6 +17,6 @@ Am ende wird noch eine kleine Tabelle angelegt.
 
 gehören zur Informatik    |   gehören nicht zur Informatik
 :-----|:---------------:|---------:
-Endliche Automaten| 50-74 Hunde
+Endliche Automaten| Hunde
 Processing| Katzen
 USV.| USW.
