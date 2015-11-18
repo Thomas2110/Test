@@ -14,5 +14,4 @@ Am ende wird noch eine Kleine Tabelle angelegt.
 Gehören zur Informatik    |   Gehören nicht zur Informatik
 :-----|:---------------:|---------:
 Endliche Automaten| 50-74 Hunde
-:-----|:---------------:|---------:
 Processing| Katzen
